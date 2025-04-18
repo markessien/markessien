@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+🧑‍🔬 What matters?
+
+Discovering more about the nature of reality, and making sure that more people in the world have a good life.
+
+🛠️ Tech Stack
+- Python
+- C++
+- Flutter
+- C#
+- Go
+- Fusion 360
+
 <!--
 **markessien/markessien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
